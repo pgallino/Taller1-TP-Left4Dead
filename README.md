@@ -8,7 +8,27 @@ Luan Shair Corrionero - 102439 - lcorrionero@fi.uba.ar
 
 -----------------------
 
-## Instalacion / Dependencias
+## Información técnica
+
+https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/Informacion%20Tecnica.pdf
+
+-----------------------
+
+## Features
+
+https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/Features.pdf
+
+-----------------------
+
+## Manual de usuario y gameplay
+
+manual de usuario: https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/manual_de_usuario.pdf
+
+gameplay: https://youtu.be/bAsRP4NCzlE?si=G3WgnshAp-5CR9R4
+
+-----------------------
+
+## Instalación / Dependencias
 
 Tener en cuenta que esto es para Linux Ubuntu 22.04 o 20.04. Todavía no se probaron
 otros SO.
@@ -154,7 +174,7 @@ cmake.
 
 ---
 
-## Ejecucion del programa
+## Ejecución del programa
 
 Para ejecutar el programa hay que tener instalada **todas** las dependencias y 
 haber **buildeado** el proyecto.
