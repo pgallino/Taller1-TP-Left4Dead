@@ -12,6 +12,10 @@ Luan Shair Corrionero - 102439 - lcorrionero@fi.uba.ar
 
 https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/2023.01.trabajo-practico.Left-4-Dead.pdf
 
+## Trailer/gameplay
+
+https://youtu.be/bAsRP4NCzlE?si=G3WgnshAp-5CR9R4
+
 -----------------------
 ## Información técnica
 
@@ -25,11 +29,9 @@ https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/Features.pdf
 
 -----------------------
 
-## Manual de usuario y gameplay
+## Manual de usuario
 
-manual de usuario: https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/manual_de_usuario.pdf
-
-gameplay: https://youtu.be/bAsRP4NCzlE?si=G3WgnshAp-5CR9R4
+https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/manual_de_usuario.pdf
 
 -----------------------
 
