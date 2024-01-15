@@ -8,6 +8,11 @@ Luan Shair Corrionero - 102439 - lcorrionero@fi.uba.ar
 
 -----------------------
 
+## Enunciado
+
+https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/2023.01.trabajo-practico.Left-4-Dead.pdf
+
+-----------------------
 ## Información técnica
 
 https://github.com/pgallino/Taller1-TP-Left4Dead/blob/master/docs/Informacion%20Tecnica.pdf
